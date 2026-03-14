@@ -22,7 +22,6 @@
 <p align="center">
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
 
 ---
@@ -85,6 +84,3 @@
 
 ---
 
-# ⚡ Fun Fact
-
-💡 I turn **coffee ☕ into code**

@@ -19,9 +19,13 @@
 
 # 🌐 Connect With Me
 
+
+
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/dhruv-sehrawat-637a3238b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
+</a>
 </p>
 
 ---

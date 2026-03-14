@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hey, I'm Dhruv Sehrawat ⚡</h1>
+<h1 align="center"> Hey, I'm Dhruv Sehrawat </h1>
 <h3 align="center">💻 Web Developer | Python Learner | Tech Explorer</h3>
 
 <p align="center">

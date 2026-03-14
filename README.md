@@ -63,9 +63,8 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DhruvSehrawat-KRMU/DhruvSehrawat-KRMU/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/DhruvSehrawat-KRMU/DhruvSehrawat-KRMU/main/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 # 🏆 GitHub Trophies

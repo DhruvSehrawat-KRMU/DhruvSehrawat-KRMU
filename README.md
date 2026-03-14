@@ -2,7 +2,7 @@
 <h3 align="center">💻 Web Developer | Python Learner | Tech Explorer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Future+Full+Stack+Developer;HTML+CSS+JavaScript+Python;Building+Cool+Things+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;;HTML+CSS+JavaScript+Python;">
 </p>
 
 ---

@@ -11,7 +11,7 @@
 
 - 🎓 Student at **KR Mangalam University**
 - 💻 Learning **Web Development**
-- 🧠 Currently exploring **JavaScript & Python**
+- 🧠 Currently exploring **JavaScript & React**
 - 🚀 Goal: Become a **Full Stack Developer**
 - 📧 Email: **sehrawatdhruv87@gmail.com**
 
